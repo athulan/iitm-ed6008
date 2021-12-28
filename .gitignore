@@ -15,6 +15,7 @@ build
 coverage
 .docusaurus
 .docusaurus/**
+
 .cache-loader
 types
 test-website
