@@ -1,0 +1,560 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/21st-century-mfg/docs",
+          "tagsPath": "/21st-century-mfg/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/athulan/code/21st-century-mfg/sidebars.js",
+          "contentPath": "/Users/athulan/code/21st-century-mfg/docs",
+          "contentPathLocalized": "/Users/athulan/code/21st-century-mfg/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "assignments/assignment-01",
+              "id": "assignments/assignment-01",
+              "title": "Kinematic Clamps",
+              "description": "....",
+              "source": "@site/docs/assignments/assignment-01.md",
+              "sourceDirName": "assignments",
+              "slug": "/assignments/assignment-01",
+              "permalink": "/21st-century-mfg/docs/assignments/assignment-01",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assignments/assignment-01.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 6",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-06"
+              },
+              "next": {
+                "title": "Machining Processes",
+                "permalink": "/21st-century-mfg/docs/assignments/assignment-02"
+              }
+            },
+            {
+              "unversionedId": "assignments/assignment-02",
+              "id": "assignments/assignment-02",
+              "title": "Machining Processes",
+              "description": "...",
+              "source": "@site/docs/assignments/assignment-02.md",
+              "sourceDirName": "assignments",
+              "slug": "/assignments/assignment-02",
+              "permalink": "/21st-century-mfg/docs/assignments/assignment-02",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assignments/assignment-02.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kinematic Clamps",
+                "permalink": "/21st-century-mfg/docs/assignments/assignment-01"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "This course surveys the field of manufacturing technology across machines, processes, and systems. The course ties fundamentals in these areas to the current state-of-the-art, with an examination of where technology is evolving to in the future. The course will examine the interrelationship between manufacturing machines, processes, and systems, with a close look at the flow of information between and across these realms, enabled by advances in IoT and Analytics. The course will pay special attention to the role of design in manufacturing and will examine feedback loops with product design. Finally, key concepts of Industry 4.0 and Smart Manufacturing will be discussed with industrial case studies. The course will equip learners to understand and appreciate the complexity of manufacturing in the 21 century, and help identify opportunities to push its frontiers.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/21st-century-mfg/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Lecture 1",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-01"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-01",
+              "id": "lectures/lecture-01",
+              "title": "Lecture 1",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-01.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-01",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-01",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-01.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/21st-century-mfg/docs/intro"
+              },
+              "next": {
+                "title": "Lecture 2",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-02"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-02",
+              "id": "lectures/lecture-02",
+              "title": "Lecture 2",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-02.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-02",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-02",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-02.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 1",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-01"
+              },
+              "next": {
+                "title": "Lecture 3",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-03"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-03",
+              "id": "lectures/lecture-03",
+              "title": "Lecture 3",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-03.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-03",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-03",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-03.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 2",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-02"
+              },
+              "next": {
+                "title": "Lecture 4",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-04"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-04",
+              "id": "lectures/lecture-04",
+              "title": "Lecture 4",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-04.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-04",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-04",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-04.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 3",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-03"
+              },
+              "next": {
+                "title": "Lecture 5",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-05"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-05",
+              "id": "lectures/lecture-05",
+              "title": "Lecture 5",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-05.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-05",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-05",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-05.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 4",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-04"
+              },
+              "next": {
+                "title": "Lecture 6",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-06"
+              }
+            },
+            {
+              "unversionedId": "lectures/lecture-06",
+              "id": "lectures/lecture-06",
+              "title": "Lecture 6",
+              "description": "Important things go here.",
+              "source": "@site/docs/lectures/lecture-06.md",
+              "sourceDirName": "lectures",
+              "slug": "/lectures/lecture-06",
+              "permalink": "/21st-century-mfg/docs/lectures/lecture-06",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-06.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lecture 5",
+                "permalink": "/21st-century-mfg/docs/lectures/lecture-05"
+              },
+              "next": {
+                "title": "Kinematic Clamps",
+                "permalink": "/21st-century-mfg/docs/assignments/assignment-01"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Lectures",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-02"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-03"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-04"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-05"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lectures/lecture-06"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Assignments",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "assignments/assignment-01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "assignments/assignment-02"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/21st-century-mfg/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/21st-century-mfg/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/21st-century-mfg/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/21st-century-mfg/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/21st-century-mfg/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/21st-century-mfg/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/21st-century-mfg/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/21st-century-mfg/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/21st-century-mfg/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/21st-century-mfg/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/21st-century-mfg/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/21st-century-mfg/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/21st-century-mfg/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/21st-century-mfg/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/21st-century-mfg/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/21st-century-mfg/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/21st-century-mfg/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/21st-century-mfg/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/21st-century-mfg/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/21st-century-mfg/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/21st-century-mfg/blog/tags/facebook"
+        },
+        "/21st-century-mfg/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/21st-century-mfg/blog/tags/hello"
+        },
+        "/21st-century-mfg/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/21st-century-mfg/blog/tags/docusaurus"
+        },
+        "/21st-century-mfg/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/21st-century-mfg/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/21st-century-mfg/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/21st-century-mfg/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/21st-century-mfg/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

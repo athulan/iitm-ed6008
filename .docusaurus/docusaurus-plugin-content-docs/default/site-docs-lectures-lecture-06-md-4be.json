@@ -1,0 +1,26 @@
+{
+  "unversionedId": "lectures/lecture-06",
+  "id": "lectures/lecture-06",
+  "title": "Lecture 6",
+  "description": "Important things go here.",
+  "source": "@site/docs/lectures/lecture-06.md",
+  "sourceDirName": "lectures",
+  "slug": "/lectures/lecture-06",
+  "permalink": "/21st-century-mfg/docs/lectures/lecture-06",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lectures/lecture-06.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lecture 5",
+    "permalink": "/21st-century-mfg/docs/lectures/lecture-05"
+  },
+  "next": {
+    "title": "Kinematic Clamps",
+    "permalink": "/21st-century-mfg/docs/assignments/assignment-01"
+  }
+}

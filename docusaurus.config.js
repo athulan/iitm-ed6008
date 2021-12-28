@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Manufacturing in the 21st Century',
   tagline: 'Evolution of Manufacturing Technology: Machines, Processes, Systems',
-  url: 'https://athulan.github.io/21st-century-mfg/',
+  url: 'https://athulan.github.io/',
   baseUrl: '/21st-century-mfg/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
