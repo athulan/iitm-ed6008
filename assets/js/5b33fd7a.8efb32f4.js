@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[459],{9523:function(s){s.exports=JSON.parse('{"allTagsPath":"/21st-century-mfg/blog/tags","slug":"/21st-century-mfg/blog/tags/hola","name":"hola","count":1,"permalink":"/21st-century-mfg/blog/tags/hola"}')}}]);
