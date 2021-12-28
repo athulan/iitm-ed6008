@@ -5,14 +5,20 @@
  */
 
 /* You can override the default Infima variables here. */
+
+
+/* Pallette from: */
+/* https://coolors.co/8ecae6-219ebc-023047-ffb703-fb8500 */
+
+
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #023047; /*prussian blue*/
+  --ifm-color-primary-dark: #023047;
+  --ifm-color-primary-darker: #011B28;
+  --ifm-color-primary-darkest: #010D14;
+  --ifm-color-primary-light: #47A9D7;
+  --ifm-color-primary-lighter: #8ECAE6;
+  --ifm-color-primary-lightest: #ABD8ED;
   --ifm-code-font-size: 95%;
 }
 
@@ -26,3 +32,7 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+
+
+
