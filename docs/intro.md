@@ -24,13 +24,11 @@ Let's break it down, shall we?
 
 **Inter-relationships and flow of information**: How are *machines*, *processes*, and *systems* related? This is the crux of the course and we will be coming back to this many times. These inter-relationships are manifested by the flows of information across the domains – information on how the machines are operating are used to make changes to the processes; process outputs impact the manufacturing systems they are a part of; and so on.  
 
-**IoT and Analytics**: The Internet of Things makes it simply to instrument and collect vast amounts of data across every-*thing* in the manufcturing ecosystem: from the machines that make things, to the things themselves, to the vast network of support players (logistics, warehouses, etc.,) that bring it all together. How do we analyze data from the IoT ("analytics") in studying the flow of information and improve machines, systems, and processes? 
+**IoT and Analytics**: The Internet of Things makes it simply to instrument and collect vast amounts of data across every-*thing* in the manufcturing ecosystem: from the machines that make things, to the things themselves, to the vast network of support players (logistics, warehouses, etc.,) that bring it all together. How do we analyze data from the IoT using the flow of information leveraging techniques such as Machine Learning and Artificial Intelligence to improve machines, systems, and processes? 
 
-**Feedback Loops with Product Design**: ...
+**Feedback Loops with Product Design**: Manufacturing cannot be viewed as an activity in isolation – it is closely related to Product Design – part design constrains and is constrained by how it can be (potentially) manufactured, and understanding the feedback between design and manufacturing is critical for developing new products.  
 
-**Industry 4.0**: ...
-
-**Smart Manufacturing**: ...
+**Industry 4.0 and Smart Manufacturing**: These refer to a clutch of technologies that taken together can potentially transform Industrial Manufacturing. What are these technologies, how mature are they in their development, and what can we do with them?
 
 **Case Studies**: What can we learn from the successes and failures (more interesting) of others? 
 
