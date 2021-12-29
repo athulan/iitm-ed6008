@@ -1,16 +1,18 @@
 ---
 sidebar_position: 1
+id: intro
+title: Course Introduction
 ---
 
-# Introduction
+## Introduction
 
 Here is how we describe the course:
 
 > This course surveys manufacturing technology across machines, processes, and systems. The course ties fundamentals in these areas to the current state-of-the-art, with an examination of where technology is evolving to in the future. The course will examine the interrelationship between manufacturing machines, processes, and systems, with a close look at the flow of information between and across these realms, enabled by advances in IoT and Analytics. The course will pay special attention to the role of design in manufacturing and will examine feedback loops with product design. Finally, key concepts of Industry 4.0 and Smart Manufacturing will be discussed with industrial case studies. The course will equip learners to understand and appreciate the complexity of manufacturing in the 21 century, and help identify opportunities to push its frontiers.
 
-Let break it down, shall we?
+Let's break it down, shall we?
 
-# Course Break Down
+## Break Down
 
 **Survey of Manufacturing Technology**: We will sweep through multiple topics related to Manufacturing Technology, with the aim of introducing you to a broad set of concepts. The idea is _not_ to delve deep into any of these topics, but to provide a sufficient introduction to several of them, so that you can come back later in your academic/professional careers to learn more when you need it. Our goal is to help you build an _index_ of these technologies so that they are familiar for you to come back to.
 
@@ -32,12 +34,13 @@ Let break it down, shall we?
 
 **Case Studies**: What can we learn from the successes and failures (more interesting) of others? 
 
+## What you can do with this course?
 
-# Goals
+### Goals
 
 - Build an index
 
-# Non-Goals
+### Non-Goals
 
 - Deep dive into specific manufacturing technologies
 - 
