@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Manufacturing in the 21st Century',
+  title: 'Industry 4.0 and Smart Manufacturing',
   tagline: 'Evolution of Manufacturing Technology: Machines, Processes, Systems',
   url: 'https://athulan.github.io/',
   baseUrl: '/21st-century-mfg/',
@@ -39,7 +39,7 @@ const config = {
     ({
       hideableSidebar: true,
       navbar: {
-        title: 'Manufacturing in the 21st Century',
+        title: 'Industry 4.0 and Smart Manufacturing',
         logo: {
           alt: 'Amazing Logo Here',
           src: 'img/logo.svg',
