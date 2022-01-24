@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://athulan.github.io/21st-century-mfg/blog</id>
-    <title>Manufacturing in the 21st Century Blog</title>
+    <title>Industry 4.0 and Smart Manufacturing Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://athulan.github.io/21st-century-mfg/blog"/>
-    <subtitle>Manufacturing in the 21st Century Blog</subtitle>
+    <subtitle>Industry 4.0 and Smart Manufacturing Blog</subtitle>
     <icon>https://athulan.github.io/21st-century-mfg/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
