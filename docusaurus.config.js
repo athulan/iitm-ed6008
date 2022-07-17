@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Industry 4.0 and Smart Manufacturing',
   tagline: 'Evolution of Manufacturing Technology: Machines, Processes, Systems',
-  url: 'https://athulan.github.io/',
-  baseUrl: '/21st-century-mfg/',
+  url: 'http://course.athulan.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
