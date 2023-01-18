@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[318],{3597:function(s){s.exports=JSON.parse('{"allTagsPath":"/iitm-ed6008/blog/tags","slug":"/iitm-ed6008/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/iitm-ed6008/blog/tags/docusaurus"}')}}]);

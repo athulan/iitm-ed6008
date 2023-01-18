@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[954],{1296:function(e){e.exports=JSON.parse('{"allTagsPath":"/iitm-ed6008/blog/tags","slug":"/iitm-ed6008/blog/tags/facebook","name":"facebook","count":1,"permalink":"/iitm-ed6008/blog/tags/facebook"}')}}]);
