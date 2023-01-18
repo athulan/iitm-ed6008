@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[254],{7105:function(e){e.exports=JSON.parse('{"allTagsPath":"/iitm-ed6008/blog/tags","slug":"/iitm-ed6008/blog/tags/hello","name":"hello","count":2,"permalink":"/iitm-ed6008/blog/tags/hello"}')}}]);
