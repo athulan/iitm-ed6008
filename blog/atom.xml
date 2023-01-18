@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://course.athulan.com/blog</id>
-    <title>Industry 4.0 and Smart Manufacturing Blog</title>
+    <title>ED6008: Industry 4.0 and Smart Manufacturing Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://course.athulan.com/blog"/>
-    <subtitle>Industry 4.0 and Smart Manufacturing Blog</subtitle>
+    <subtitle>ED6008: Industry 4.0 and Smart Manufacturing Blog</subtitle>
     <icon>http://course.athulan.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
