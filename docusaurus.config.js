@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Industry 4.0 and Smart Manufacturing',
-  tagline: 'Evolution of Manufacturing Technology: Machines, Processes, Systems',
+  title: 'ED6008: Industry 4.0 and Smart Manufacturing',
+  tagline: '',
   url: 'http://course.athulan.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'athulan', // Usually your GitHub org/user name.
-  projectName: '21st-century-mfg', // Usually your repo name.
+  projectName: 'iitm-ed6008', // Usually your repo name.
 
   presets: [
     [
@@ -22,10 +22,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+			path: 'course',
+			routeBasePath: '/', 
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -37,9 +39,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      hideableSidebar: true,
-      navbar: {
-        title: 'Industry 4.0 and Smart Manufacturing',
+		navbar: {
+        title: 'ED6008: Industry 4.0 and Smart Manufacturing',
         logo: {
           alt: 'Amazing Logo Here',
           src: 'img/logo.svg',
@@ -51,9 +52,9 @@ const config = {
             position: 'right',
             label: 'Course',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
+          /**{to: '/blog', label: 'Blog', position: 'right'},**/
           {
-            href: 'https://github.com/athulan/21st-century-mfg',
+            href: 'https://github.com/athulan/iitm-ed6008',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,24 +68,20 @@ const config = {
             items: [
               {
                 label: 'Lectures',
-                to: '/docs/lectures/lecture-01',
+                to: '/lectures/lecture-01',
               },
-              {
-                label: 'Assignments',
-                to: '/docs/assignments/assignment-01'
-              }
+              // {
+              //   label: 'Assignments',
+              //   to: '/docs/assignments/assignment-01'
+              // }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/athulan/21st-century-mfg/',
+                href: 'https://github.com/athulan/iitm-ed6008/',
               },
             ],
           },
